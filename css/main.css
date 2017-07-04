@@ -1,0 +1,104 @@
+
+ul a{
+	list-style: none;
+	text-decoration: none;
+}
+li {
+	display: inline-block;
+	margin: 1em;
+}
+body {
+	text-align: center;
+}
+
+h1 {
+	color: #FF7673;
+}
+
+header {
+	background-color: #037F99;
+	height: 5em;
+	padding: 1%;
+	font-family: 'Baloo Paaji', cursive;
+	text-align: center;
+	box-sizing: border-box;
+}
+.hamburguesa {
+		display: none;
+		
+	}
+
+
+.dos_fondo{
+	background-image: url(../img/img-7.jpg);
+	background-size: 100%;
+	background-repeat: no-repeat;
+	background-position: center top;
+	padding: 5%;
+	box-sizing: border-box;
+	padding: 10%;
+	width: 100%;
+	margin: 0 auto;
+}
+
+.titulo {
+	font-size: 400%;
+}
+.cnj {
+	width: 100%;
+	height: auto;
+}
+.caja-conejo {
+	margin: 15px 10px;
+	background-color: #037F99;
+}
+.sub-1 {
+	font-size: 1.1em;
+	text-align: center;
+}
+
+.img{
+	width: 50%;
+	margin-bottom: 0;
+	padding: 30px;
+	border-radius: 5px;
+}
+.search-box {
+	background-color: #CBF2F7;
+	background-size: 100%;
+	margin-bottom: 5px;
+	padding: 30px;
+	border-radius: 5px;
+}
+.search {
+	width: 90%;
+	height: 50px;
+}
+.imagen_a{
+	width: 100%;
+}
+.img_center {
+	margin: 20px;
+	background-color: #CBF2F7;
+	text-align: left;
+	padding: 30px;
+	border-radius: 5px;
+}
+
+.margin {
+	padding: 20px;
+}
+.color {
+	background-color: #CBF2F7;
+}
+.blanco {
+	background-color: white;
+}
+	
+	.no-display {
+		display: none;
+	}
+	iframe {
+		height: 100%;
+	}
+}
